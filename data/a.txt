@@ -1,0 +1,2 @@
+2020-10-05 11≤‚ ‘35.761644|c:\users\drzon\appdata\local\programs\python\python37\lib\site-packages\ipykernel_launcher.py
+2020-10-05 11:04:40.337077|c:\users\drzon\appdata\local\programs\python\python37\lib\site-packages\ipykernel_launcher.py
